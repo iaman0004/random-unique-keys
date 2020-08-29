@@ -1,8 +1,11 @@
 {
 	"name": "random-unique-keys",
-	"version": "0.1.0",
+	"version": "0.1.1",
 	"description": "Random but unique keys for applications with salts provided can be used to generator OTPs and other unique keys",
 	"main": "index.js",
+	"repository": {
+		"url": "git://github.com/iaman0004/react-card-container.git"
+	},
 	"scripts": {
 		"test": "Error : no test command found",
 		"start": "node index.js"
