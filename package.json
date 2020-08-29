@@ -1,0 +1,16 @@
+{
+	"name": "random-unique-keys",
+	"version": "0.1.0",
+	"description": "Random but unique keys for applications with salts provided can be used to generator OTPs and other unique keys",
+	"main": "index.js",
+	"scripts": {
+		"test": "Error : no test command found",
+		"start": "node index.js"
+	},
+	"keywords": [
+		"random",
+		"unique"
+	],
+	"author": "Aman Kumar Sharma",
+	"license": "MIT"
+}
