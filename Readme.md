@@ -2,9 +2,9 @@
 
 ## Installation
 
-### npm install random-unique-keys --save
+### `npm install random-unique-keys --save`
 
-### yarn add random-unique-keys
+### `yarn add random-unique-keys`
 
 ## Usage
 
