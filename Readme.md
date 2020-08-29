@@ -1,14 +1,15 @@
-##random-unique-keys
+## random-unique-keys
 
-##Installation
+## Installation
 
 ### npm install random-unique-keys --save
 
 ### yarn add random-unique-keys
 
-##Usage
+## Usage
 
-####Using ES6 syntax
+#### Using ES6 syntax
+
 import {genrateKey} from 'random-unique-keys;
 
 genrateKey(salt, length)
