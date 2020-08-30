@@ -1,6 +1,6 @@
 {
 	"name": "random-unique-keys",
-	"version": "0.1.1",
+	"version": "0.1.2",
 	"description": "Random but unique keys for applications with salts provided can be used to generator OTPs and other unique keys",
 	"main": "index.js",
 	"repository": {
